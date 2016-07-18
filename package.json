@@ -1,0 +1,20 @@
+{
+  "name": "hyperterm-firewatch",
+  "version": "0.1.0",
+  "description": "Firewatch HyperTerm theme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeds-ebooks/hyperterm-firewatch.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ],
+  "author": "Ben Styles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeds-ebooks/hyperterm-firewatch/issues"
+  },
+  "homepage": "https://github.com/leeds-ebooks/hyperterm-firewatch#readme"
+}
