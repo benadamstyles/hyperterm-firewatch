@@ -1,20 +1,30 @@
 {
-  "name": "hyperterm-firewatch",
-  "version": "0.1.0",
-  "description": "Firewatch HyperTerm theme",
+  "name": "hyper-firewatch",
+  "version": "0.2.0",
+  "description": "A dark Hyper theme inspired by Campo Santo's Firewatch video game.",
+  "homepage": "https://github.com/evansims/hyper-firewatch#readme",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "hyper",
+    "hyper-theme",
+    "firewatch",
+    "dark",
+    "dark mode"
+  ],
+  "license": "MIT",
+  "author": "Evan Sims <hello@evansims.com>",
+  "contributors": [{
+    "name": "Ben Styles"
+  }],
+  "bugs": {
+    "url": "https://github.com/evansims/hyper-firewatch/issues"
+  },
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leeds-ebooks/hyperterm-firewatch.git"
+    "url": "git+https://github.com/evansims/hyper-firewatch.git"
   },
-  "keywords": [
-    "hyperterm",
-    "hyperterm-theme"
-  ],
-  "author": "Ben Styles",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/leeds-ebooks/hyperterm-firewatch/issues"
-  },
-  "homepage": "https://github.com/leeds-ebooks/hyperterm-firewatch#readme"
+  "dependencies": {},
+  "engines": {}
 }
