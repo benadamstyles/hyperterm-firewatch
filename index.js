@@ -133,7 +133,7 @@ exports.middleware = () => (next) => (action) => {
       action.config.cursorColor = FOREGROUND_COLOR;
       action.config.borderColor = BORDER_COLOR;
       action.config.colors = COLORS;
-      action.config.css = CSS;
+      action.config.css = `${action.config.css || ''}${CSS}`;
   }
   next(action);
 };
